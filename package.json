@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-locator",
+  "version": "1.0.0",
+  "description": "> Temukan elemen HTML tanpa CSS selector — cukup pakai teks label seperti yang terlihat di layar.",
+  "homepage": "https://github.com/lukluk/puppeteer-locator#readme",
+  "bugs": {
+    "url": "https://github.com/lukluk/puppeteer-locator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukluk/puppeteer-locator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
